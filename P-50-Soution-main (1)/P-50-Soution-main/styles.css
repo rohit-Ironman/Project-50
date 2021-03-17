@@ -40,3 +40,15 @@ body{
   
     color : white  
 }
+
+a:link{
+ 
+    color : white  
+}
+
+a:visited{
+    color: white; 
+} 
+.oragami hover{
+    transform: scale(1.2); 
+}
